@@ -72,7 +72,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"..\/zukunft2021-workadventure\/out.json"
+                 "value":"out.json"
                 }],
          "type":"tilelayer",
          "visible":false,
