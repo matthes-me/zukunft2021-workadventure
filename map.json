@@ -40,9 +40,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"jitsiRoom",
+                 "name":"openWebsite",
                  "type":"string",
-                 "value":"zukunft-pary"
+                 "value":"link.161hz.de\/zparty"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -75,7 +75,7 @@
                  "value":"out.json"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":46,
          "x":0,
          "y":0
