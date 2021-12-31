@@ -42,7 +42,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"link.161hz.de\/zparty"
+                 "value":"https:\/\/link.161hz.de\/zparty"
                 }],
          "type":"tilelayer",
          "visible":true,
