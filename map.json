@@ -928,7 +928,7 @@
         {
          "columns":18,
          "firstgid":337,
-         "image":"..\/..\/..\/rc3world\/rc3world\/engel-kittchen2021\/tilesets\/cija_32x32_expansion for Pipoya_CC0.png",
+         "image":"cija_32x32_expansion for Pipoya_CC0.png",
          "imageheight":4256,
          "imagewidth":576,
          "margin":0,
@@ -941,7 +941,7 @@
         {
          "columns":64,
          "firstgid":2731,
-         "image":"..\/..\/..\/rc3world\/rc3world\/engel-kittchen2021\/tilesets\/groundzeroset.png",
+         "image":"groundzeroset.png",
          "imageheight":1024,
          "imagewidth":2048,
          "margin":0,
