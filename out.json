@@ -92,7 +92,7 @@
                         {
                          "name":"url",
                          "type":"string",
-                         "value":"https:\/\/hs.matthes.me\/ipiep\/player.html"
+                         "value":"index.html"
                         }],
                  "rotation":0,
                  "type":"",
