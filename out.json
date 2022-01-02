@@ -85,6 +85,11 @@
                  "name":"",
                  "properties":[
                         {
+                         "name":"allowApi",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
                          "name":"url",
                          "type":"string",
                          "value":"https:\/\/hs.matthes.me\/ipiep\/player.html"
@@ -97,12 +102,6 @@
                  "y":72.7272727272727
                 }],
          "opacity":1,
-         "properties":[
-                {
-                 "name":"url",
-                 "type":"string",
-                 "value":"https:\/\/hs.matthes.me\/ipiep\/player.html"
-                }],
          "type":"objectgroup",
          "visible":true,
          "x":0,
